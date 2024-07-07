@@ -1,5 +1,6 @@
 # Sales_Report_PowerBI
 
+![Sales Report ](https://github.com/alexvatti/Sales_Report_PowerBI/blob/main/Capture.png)
 # Workflow Overview for Task
 
 ## 1. Review the Data
